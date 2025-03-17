@@ -1,1 +1,1 @@
-Hi Vivian as mentioned, i am using Katalon for the framework for this STB Take Home Assignment Project. Thank you 
+Hi Vivian, as i do not have much coding experience. i did some research on selenium, cxpress and other automation framework but i decided to use Katalon framework for this STB assignment as it's similar to Tosca which is what i have done for the past few year of my career. Please let me know if there is any issue. Thank you.
