@@ -1,1 +1,3 @@
-Hi Vivian, as i do not have much coding experience. i did some research on selenium, cxpress and other automation framework but i decided to use Katalon framework for this STB assignment as it's similar to Tosca which is what i have done for the past few year of my career. Please let me know if there is any issue. Thank you.
+I have decide on using Katalon framework for this STB assignment as it is provides an all-in-one environment for test creation, execution, and management and also web testing capabilities for browsers such as Chrome, Firefox, and Edge.
+With Katalon, users can execute tests on different environments, including mobile, web, and desktop apps. This makes it ideal to test applications across various platforms.
+Its user-friendly interface, integrations with CI/CD pipelines, flexibility features able to meet various testing requirements and analyze trends, making it easier to pinpoint issues and improve test processes.
